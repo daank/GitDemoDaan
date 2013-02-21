@@ -3,7 +3,7 @@ package test;
 
 public class Utility {
     public static void saySomething(){
-        System.out.println(" Hello world ");
+        System.out.println(" Hello daan");
     }
     
 }
